@@ -1,7 +1,8 @@
 #include <iostream>
-using namespace std;
-
 int main() {
-    cout << "Hello GitHub!" << endl;
-    return 0;
+	
+	int a = 1;
+	std::cout << a;
+
+	return 0;
 }
