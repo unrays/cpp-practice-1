@@ -6,7 +6,7 @@ int main() {
 
 	std::cout << a;
 
- std::println("yo palou!");
+	std::println("yo palou!");
 
 	return 0;
 }
